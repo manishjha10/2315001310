@@ -1,1 +1,21 @@
 
+body {
+  margin: 0;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+  background: #f4f4f4;
+}
+
+h1 {
+  text-align: center;
+}
+
+button {
+  padding: 8px 14px;
+  cursor: pointer;
+}
+
+select {
+  margin: 15px 0;
+  padding: 8px;
+}
